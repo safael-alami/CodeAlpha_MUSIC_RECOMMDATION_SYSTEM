@@ -1,8 +1,7 @@
 # CodeAlpha_MUSIC_RECOMMDATION_SYSTEM 
 ### Music Recommendation System 🎵
 #### Description ℹ️
-Ce projet vise à créer un programme Python capable de recommander des chansons en se basant sur les préférences et les chansons les plus écoutées d'une personne. L'objectif est de générer des recommandations de chansons à partir de l'API Spotify en fonction d'un modèle entraîné pour prédire si une personne aimera ou non une chanson.
+This project aims to create a Python program capable of recommending songs based on the preferences and most listened-to songs of an individual. The goal is to generate song recommendations using the Spotify API based on a trained model to predict whether a person will like a song or not.
 
 #### Contributions 🙌
-Les contributions à ce projet sont les bienvenues ! N'hésitez pas à ouvrir une issue pour signaler des problèmes ou à soumettre une demande de fusion pour proposer des améliorations.
-
+Contributions to this project are welcome! Feel free to open an issue to report any problems or submit a pull request to propose improvements.
